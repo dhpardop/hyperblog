@@ -1,2 +1,4 @@
 # hyperblog
-<p>Creado por el increible DPP</p>
+* Creado por el increible DPP
+* Inclue solo algunas partes del curso
+* disponible para todas las edades
